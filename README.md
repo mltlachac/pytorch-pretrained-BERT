@@ -1,3 +1,8 @@
+# My Notes About This Repository
+
+I forked this repository to use feature_extraction.py in the examples folder.  The original description of the repository follows. 
+
+
 # PyTorch Pretrained BERT: The Big & Extending Repository of pretrained Transformers
 
 [![CircleCI](https://circleci.com/gh/huggingface/pytorch-pretrained-BERT.svg?style=svg)](https://circleci.com/gh/huggingface/pytorch-pretrained-BERT)
